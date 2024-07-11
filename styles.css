@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna:wght@100..400&display=swap');
 body {
     font-family: "Playwrite IT Moderna", cursive;
-  font-optical-sizing: auto;
-  font-weight: 100px;
-  font-style: normal;
+    font-optical-sizing: auto;
+    font-weight: 100px;
+    font-style: normal;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,8 +20,6 @@ body {
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
-
-
 select {
     appearance: none;
     background-color: #f9f9f9;
@@ -33,10 +31,8 @@ select {
     width: 100%;
     box-sizing: border-box;
     transition: border-color 0.3s ease;
-  }
-  
+}
 
-  
 button {
     background-color: #4CAF50;
     color: white;
